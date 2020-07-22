@@ -72,7 +72,7 @@ figure.foto-legenda {
 
 figure.foto-legenda img {
     width: 100%;
-    height: 100%;
+    height: 50%;
 }
 
 figure.foto-legenda figcaption {
@@ -234,6 +234,14 @@ aside#lateral h2 {
     color: #ffffff;
     padding: 5px;
 
+}
+
+aside#lateral video#filme2 {
+    display: block;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    width: 350px;
 }
 
 footer#rodape {
